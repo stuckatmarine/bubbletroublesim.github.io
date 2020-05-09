@@ -1,0 +1,1 @@
+Shopping simulation game showcasing social distancing limitations.
